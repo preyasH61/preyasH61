@@ -1,0 +1,11 @@
+npx create-react-app appname
+
+npm install -g firebase-tools
+
+ES7 React/Redux/GraphQL/React-Native snippets
+
+npm install @material-ui/core
+
+npm install @material-ui/icons
+
+write rfce when create new js file
